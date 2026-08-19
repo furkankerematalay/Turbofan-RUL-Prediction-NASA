@@ -17,3 +17,6 @@ The system processes high-dimensional sensor data through a structured pipeline:
 
 * ## 📊 Visualization & Results
 The model's performance is evaluated using **RMSE (Root Mean Square Error)** and **MAE (Mean Absolute Error)** to measure the deviation between predicted and actual RUL.
+
+<img width="1919" height="985" alt="graik" src="https://github.com/user-attachments/assets/d813203f-9754-465f-9a7e-62847cb7870b" />
+
